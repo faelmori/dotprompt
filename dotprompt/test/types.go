@@ -17,7 +17,7 @@
 package dotprompt
 
 import (
-	dp "github.com/faelmori/dotprompt/go/dotprompt"
+	dp "github.com/faelmori/dotprompt/dotprompt"
 	"github.com/invopop/jsonschema"
 )
 

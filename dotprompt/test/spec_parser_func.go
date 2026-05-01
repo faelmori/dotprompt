@@ -20,7 +20,7 @@ import (
 	"fmt"
 	"testing"
 
-	dp "github.com/faelmori/dotprompt/go/dotprompt"
+	dp "github.com/faelmori/dotprompt/dotprompt"
 	"github.com/goccy/go-yaml"
 	"github.com/invopop/jsonschema"
 )

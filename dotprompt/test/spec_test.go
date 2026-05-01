@@ -26,7 +26,7 @@ import (
 
 	"maps"
 
-	. "github.com/faelmori/dotprompt/go/dotprompt"
+	. "github.com/faelmori/dotprompt/dotprompt"
 	"github.com/go-viper/mapstructure/v2"
 	"github.com/invopop/jsonschema"
 )

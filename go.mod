@@ -1,4 +1,4 @@
-module github.com/faelmori/dotprompt/go
+module github.com/faelmori/dotprompt
 
 go 1.26.2
 

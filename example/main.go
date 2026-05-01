@@ -20,7 +20,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/faelmori/dotprompt/go/dotprompt"
+	"github.com/faelmori/dotprompt/dotprompt"
 )
 
 func main() {

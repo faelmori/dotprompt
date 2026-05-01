@@ -135,7 +135,7 @@ func (p *PicoschemaParser) Parse(schema any) (*jsonschema.Schema, error) {
 	return p.parsePico(schema)
 }
 
-// validateSchemaFields checks if all fields in schemaMap are present in schemaJSON
+// ValidateSchemaFields checks if all fields in schemaMap are present in schemaJSON
 func ValidateSchemaFields(schemaMap map[string]any, schemaJSON *jsonschema.Schema) error {
 	// Convert schemaJSON to a map for comparison
 	schemaJSONMap := make(map[string]any)
